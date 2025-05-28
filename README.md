@@ -38,7 +38,3 @@ cd memory-cards
 - `index.html` - Main HTML file of the application
 - `style.css` - Stylesheet for the application's appearance
 - `script.js` - JavaScript file containing the application's logic
-
-## License
-
-This project is open-source and available under the MIT License.
